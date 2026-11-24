@@ -2,7 +2,7 @@ USLOVI KORIŠĆENJA USLUGE – MAJSTORKLIK
 
 Aplikacija: MajstorKlik
 Programer i vlasnik: Radenko Kozomara
-Kontakt e-pošta: radenko92@hotmail.com
+Kontakt e-pošta: radenko92@gmail.com
 
 1. Opšte odredbe
 Korišćenjem aplikacije MajstorKlik korisnik prihvata ove Uslove korišćenja. Aplikacija služi isključivo kao platforma za povezivanje korisnika kojima su potrebne majstorske usluge i majstora/izvođača radova.
@@ -17,4 +17,4 @@ Korisnici su odgovorni za tačnost podataka koje unose (oglasi, ponude, fotograf
 Eventualne plaćene funkcije ili PRO status unutar aplikacije pružaju dodatne pogodnosti prikaza u okviru same aplikacije i ne garantuju određeni broj poslova ili zaradu.
 
 5. Kontakt
-Za sva pitanja, prijave zloupotreba ili podršku možete se obratiti na: radenko92@hotmail.com.
+Za sva pitanja, prijave zloupotreba ili podršku možete se obratiti na: radenko92@gmail.com.
