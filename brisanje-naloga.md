@@ -2,7 +2,7 @@ ZAHTEV ZA BRISANJE NALOGA I PODATAKA – MAJSTORKLIK
 
 Aplikacija: MajstorKlik
 Programer: Radenko Kozomara
-Kontakt e-pošta: radenko92@hotmail.com
+Kontakt e-pošta: radenko92@gmail.com
 
 Korisnici aplikacije MajstorKlik mogu u svakom trenutku da zatraže trajno brisanje svog korisničkog naloga i svih povezanih podataka na jedan od sledeća dva načina:
 
@@ -13,7 +13,7 @@ Korisnici aplikacije MajstorKlik mogu u svakom trenutku da zatraže trajno brisa
 - Izaberite opciju „Obriši nalog“ i potvrdite brisanje. Nalog i podaci biće odmah uklonjeni.
 
 2. Brisanje putem e-pošte (ukoliko ste već deinstalirali aplikaciju):
-- Pošaljite poruku sa svoje registrovane Google imejl adrese na: radenko92@hotmail.com
+- Pošaljite poruku sa svoje registrovane Google imejl adrese na: radenko92@gmail.com
 - U naslov poruke (Subject) upišite: Zahtev za brisanje naloga – MajstorKlik
 - U poruci kratko potvrdite da želite trajno brisanje svog naloga.
 - Vaš zahtev će biti obrađen, a nalog i svi podaci trajno obrisani najkasnije u roku od 7 dana od prijema zahteva, o čemu ćete dobiti potvrdu putem e-pošte.
